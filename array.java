@@ -11,7 +11,7 @@ public class array {
                 System.out.println(num+" Is in array");
                 break;
             } else if (myArray.length-1 != num) {
-                System.out.println(num+" Is not in array");
+                System.out.println(num+" Is not sdfsdfsdfsdf in array");
                 break;
             }
         }
